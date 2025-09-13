@@ -5,7 +5,7 @@ a = 5
 b = 10
 def sum(a,b):
     c=a+b
-    return b
+    return c
 
 print("this is new function ")
 
